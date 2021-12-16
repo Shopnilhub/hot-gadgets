@@ -1,0 +1,74 @@
+header{
+    font-family: poppins;
+    padding: 10px 0;
+    letter-spacing: 1px;
+}
+li.nav-item {
+    padding: 0 10px;
+}
+.mackbook-img{
+    width: 100%;
+}
+.carousel .carousel-indicators button {
+    background-color: rgb(107, 104, 104);
+    height: 10px;
+    width: 50px;
+    border-radius: 20px;
+}
+.carousel .carousel-indicators button.active {
+    background-color: #FFCD1A;
+}
+.carousel-indicators {
+    margin-bottom: -5rem;
+}
+span.carousel-control-next-icon {
+    display: none;
+}
+span.carousel-control-prev-icon {
+    display: none;
+}
+.text p{
+    padding: 10px 0;
+    font-family: poppins;
+    letter-spacing: 1px;
+}
+button.buy-btn {
+    border: none;
+    background: #edd008;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    letter-spacing: 1px;
+}
+#smartphone {
+    margin-top: 100px;
+}
+#laptop{
+    margin-top: 100px;
+}
+.btn:hover {
+    color: #bac4cd;
+}
+.buy-now {background: black;color: white;}
+.card{
+    padding: 20px;
+}
+p.card-text {
+    font-family: 'Poppins';
+    letter-spacing: 1px;
+}
+.see-all a {
+    text-decoration: none;
+    color: #b1a507;
+}
+.image-2 {
+    margin-top: 20px;
+}
+
+.image-3 {
+    margin-top: 70px;
+}
+
+.categories {
+    padding-top: 100px;
+}
